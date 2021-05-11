@@ -1,0 +1,20 @@
+{
+  "name": "code-tejeswara",
+  "version": "1.0.0",
+  "description": "initial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha — timeout 10000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TejeswaraReddy836/20210511.git"
+  },
+  "author": "Komma Tejeswara Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TejeswaraReddy836/20210511/issues"
+  },
+  "homepage": "https://github.com/TejeswaraReddy836/20210511#readme",
+  "dependencies": {}
+}
